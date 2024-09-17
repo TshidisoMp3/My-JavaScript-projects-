@@ -1,0 +1,23 @@
+/*Design for Body*/
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/*Container Design*/
+.container {
+    text-align: center;
+    /*background-color: black;*/
+}
+
+/*Button Design*/
+button {
+    padding: 10px, 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
