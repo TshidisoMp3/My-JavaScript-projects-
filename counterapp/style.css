@@ -1,0 +1,29 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: midnightblue;
+}
+
+.container {
+    text-align: center;
+    color: thistle;
+}
+
+#counter {
+    font-size: 10em;
+    color: thistle;
+}
+
+button {
+    padding: 10px, 10px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: thistle;
+    color: midnightblue;
+    border: aqua;
+    border-radius: 5px;
+}
